@@ -1,2 +1,2 @@
-test aaa origin setting
-update
+test origin setting
+ update
